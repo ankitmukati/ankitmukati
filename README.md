@@ -63,4 +63,30 @@
 
 ## 🎓 Education
 
-**Mas**
+**Master of Computer Applications (MCA)**  
+🎓 *Sage University, Indore* (2023–2025)  
+📊 CGPA: **7.61 / 10**
+
+**Bachelor of Computer Applications (BCA)**  
+🎓 *Parul University, Vadodara* (2020–2023)  
+📊 CGPA: **7.39 / 10**
+
+---
+
+## 🏅 Certifications
+- 🎨 **Graphics & Web Development** — Arena Animation (2023)  
+  *Fundamentals of HTML, CSS, and Adobe tools.*
+- 💻 **Full Stack Web Development** — Arth Technology (2023)  
+  *Hands-on experience with Python, Django, and modern frontend frameworks.*
+
+---
+
+## ❤️ Let’s Connect
+I’m always open to collaboration, internship, or job opportunities in Python, Django, or full-stack development.
+
+📩 Feel free to reach out: [ankitmukati206@gmail.com](mailto:ankitmukati206@gmail.com)
+
+---
+
+### ✨ *“Code. Learn. Build. Repeat.”*  
+© 2025 **Ankit Mukati**
